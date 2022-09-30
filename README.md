@@ -4,7 +4,7 @@ The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at 
 learn a lot during these 7 days and it was an amazing experience learning with DEVTOWN.
 <br><br>Here's the link for you to watch the sessions as well<br>
 <a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulkeQlgM8Ggz9UcnhaeIkDp">
-<br> I got to have hands on experience on:
+<br><br> I got to have hands on experience on:
 <li>Python
 <li>Machine Learning
 <li>Google Colab
