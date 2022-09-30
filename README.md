@@ -3,8 +3,8 @@ Hi I made this project during 7 days free Bootcamp, conducted by <b> DEVTOWN/SHA
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to 
 learn a lot during these 7 days and it was an amazing experience learning with DEVTOWN.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulkeQlgM8Ggz9UcnhaeIkDp">
-<br><br> I got to have hands on experience on:
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulkeQlgM8Ggz9UcnhaeIkDp">Machine Learning - Sept 2022</a>
+<br> I got to have hands on experience on:
 <li>Python
 <li>Machine Learning
 <li>Google Colab
