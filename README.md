@@ -14,4 +14,4 @@ or follow DEVTOWN on :
 <li><a href ="https://www.linkedin.com/company/devtown-in/">LinkedIn</a>
 <li><a href ="https://www.instagram.com/devtown.in/">Instagram</a>
 <li><a href ="https://www.youtube.com/c/DevTownIndia">YouTube</a>
-<li><a href =": https://discord.gg/GMeAG9BVuD">Discord</a>
+<li><a href ="https://discord.gg/GMeAG9BVuD">Discord</a>
