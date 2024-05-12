@@ -1,5 +1,5 @@
 # `MACHINE LEARNING BOOTCAMP`:
-### Hey there:wave:, 
+### Hey there, 
 - #### I've made a Machine Learning project during 7 days Bootcamp, conducted by <b> DEVTOWN </b>. 
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to 
 learn a lot during these 7 days and it was an amazing experience learning with DEVTOWN.
